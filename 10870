@@ -7,8 +7,9 @@ public class Main {
         int n = sc.nextInt();
 
         int result = 0;
-
-        result = fibonacci(n);
+        
+        if(n == 0) result = 0;
+        else result = fibonacci(n);
 
         System.out.println(result);
 
