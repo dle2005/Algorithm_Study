@@ -1,7 +1,11 @@
-class Solution {
-    public int solution(String s) {
-        
-        int result = s.length();
+package programmers;
+
+public class P_60057 {
+    public static void main(String[] args) {
+        System.out.println(solution("abbbcccabcdede"));
+    }
+    public static int solution(String s) {
+        int answer = s.length();
 
         // i는 문자열을 자를 단위
         for(int i = 1; i <= s.length()/2; i++) {
@@ -24,10 +28,8 @@ class Solution {
 
                 //바꿀 문자열
                 String change;
-                if(cnt == 1)
-                    change = unit;
-                else
-                    change = cnt + unit;
+                if(cnt == 1) change = unit;
+                else change = cnt + unit;
 
                 temp += change;
                 j_index = j;
@@ -35,11 +37,9 @@ class Solution {
 
             temp += s.substring(j_index);
 
-            result = Math.min(result, temp.length());
-//            System.out.println("temp " + temp + "" + temp.length());
+            answer = Math.min(answer, temp.length());
         }
 
-    
-        return result;
+        return answer;
     }
 }
