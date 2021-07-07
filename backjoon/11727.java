@@ -8,7 +8,7 @@ public class Main {
 
         int n = Integer.parseInt(br.readLine());
 
-        int[] dp = new int[Math.max(n + 1, 2)];
+        int[] dp = new int[Math.max(n + 1, 3)];
         dp[1] = 1; dp[2] = 3;
 
         for (int i = 3; i <= n; i++)
