@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c7b011d-99c3-49ef-a62a-800760fcc56b" name="Default Changelist" comment="refactor project structure" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SpringBatchClass" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22Sm6r09cm20DwdSJlkdZjq8Ub9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dlee/Desktop/Algorithm_Study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/untitled1/src/lib" />
+      <recent name="$PROJECT_DIR$/untitled1/src/SWEA" />
+      <recent name="$PROJECT_DIR$/untitled1/src/programmers" />
+      <recent name="$PROJECT_DIR$/untitled1/src/LeetCode" />
+      <recent name="$PROJECT_DIR$/untitled1/src/Jungol" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/Algorithm_Study/Algorithm_Study/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.J_559">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.EOF" />
+      <module name="Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J_559" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jungol.J_559" />
+      <module name="Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jungol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number_of_1_Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Number_of_1_Bits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Power_of_Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Power_of_Two" />
+      <module name="Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_1000Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.BOJ_1000Kt" />
+      <module name="Algorithm_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.J_559" />
+        <item itemvalue="Kotlin.BOJ_1000Kt" />
+        <item itemvalue="Application.EOF" />
+        <item itemvalue="Application.Number_of_1_Bits" />
+        <item itemvalue="Application.Power_of_Two" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c7b011d-99c3-49ef-a62a-800760fcc56b" name="Default Changelist" comment="" />
+      <created>1639839189877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639839189877</updated>
+      <workItem from="1639839192189" duration="7011000" />
+      <workItem from="1639913544056" duration="903000" />
+      <workItem from="1639914465321" duration="24798000" />
+      <workItem from="1640271625823" duration="30753000" />
+      <workItem from="1641287938552" duration="12761000" />
+      <workItem from="1641373568642" duration="12003000" />
+      <workItem from="1641537918847" duration="5227000" />
+      <workItem from="1641543552334" duration="1217000" />
+      <workItem from="1641544782067" duration="4833000" />
+      <workItem from="1641617253828" duration="3123000" />
+      <workItem from="1641620398726" duration="4262000" />
+      <workItem from="1641633316352" duration="50421000" />
+      <workItem from="1644329119592" duration="597000" />
+      <workItem from="1645020389954" duration="3518000" />
+      <workItem from="1645401091756" duration="599000" />
+      <workItem from="1646139626382" duration="1614000" />
+      <workItem from="1646576602132" duration="9808000" />
+      <workItem from="1647010147430" duration="8127000" />
+      <workItem from="1647523381704" duration="17574000" />
+      <workItem from="1648628348867" duration="7085000" />
+      <workItem from="1649234340222" duration="37211000" />
+      <workItem from="1651152282621" duration="2274000" />
+      <workItem from="1651154635685" duration="3131000" />
+      <workItem from="1651500815605" duration="42981000" />
+      <workItem from="1653996089065" duration="4876000" />
+      <workItem from="1656942525975" duration="37000" />
+      <workItem from="1656942574453" duration="292000" />
+      <workItem from="1656942875848" duration="1446000" />
+      <workItem from="1656944335272" duration="256000" />
+      <workItem from="1656944594878" duration="4000" />
+      <workItem from="1657114732078" duration="44828000" />
+      <workItem from="1664456127140" duration="15675000" />
+      <workItem from="1665150620398" duration="6276000" />
+      <workItem from="1665489100468" duration="581000" />
+      <workItem from="1665489690527" duration="501000" />
+      <workItem from="1665490200708" duration="1655000" />
+      <workItem from="1665491893340" duration="11000" />
+      <workItem from="1665491914786" duration="29000" />
+    </task>
+    <task id="LOCAL-00084" summary="BOJ_15656 N과 M (7)&#10;&#10;- 실버3&#10;- #백트래킹 #수열">
+      <created>1650204931888</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1650204931888</updated>
+    </task>
+    <task id="LOCAL-00085" summary="BOJ_15666 N과 M (12)&#10;&#10;- 실버3&#10;- #백트래킹 #수열">
+      <created>1650459932678</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1650459932678</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Programmers: 신고 결과 받기&#10;&#10;- Level: 1&#10;- #해쉬 #문자열">
+      <created>1650540086587</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1650540086587</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Programmers: 주차 요금 계산&#10;&#10;- Level: 2&#10;- #해쉬 #문자열">
+      <created>1650549788331</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1650549788331</updated>
+    </task>
+    <task id="LOCAL-00088" summary="BOJ_15829&#10;&#10;- 브론즈2&#10;- #문자열 #모듈러 연산">
+      <created>1650893063445</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1650893063445</updated>
+    </task>
+    <task id="LOCAL-00089" summary="BOJ_1652 누울 자리를 찾아라 &#10;&#10;- 브론즈1&#10;- #문자열">
+      <created>1650981209959</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1650981209959</updated>
+    </task>
+    <task id="LOCAL-00090" summary="BOJ_2445 별 찍기 - 8&#10;&#10;- 브론즈3&#10;- #구현">
+      <created>1651063584038</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1651063584038</updated>
+    </task>
+    <task id="LOCAL-00091" summary="BOJ_5582 공통 부분 문자열&#10;&#10;- 골드5&#10;- #문자열 #DP">
+      <created>1651501558695</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1651501558695</updated>
+    </task>
+    <task id="LOCAL-00092" summary="프로그래머스: 양궁대회&#10;&#10;- Level2&#10;- #구현">
+      <created>1651762056559</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762056559</updated>
+    </task>
+    <task id="LOCAL-00093" summary="프로그래머스: [3차] n진수 게임&#10;&#10;- Level2&#10;- #문자열 #구현">
+      <created>1651830747235</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1651830747235</updated>
+    </task>
+    <task id="LOCAL-00094" summary="프로그래머스: 순위 검색&#10;&#10;- Level2&#10;- #문자열 #구현">
+      <created>1651888385217</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1651888385217</updated>
+    </task>
+    <task id="LOCAL-00095" summary="프로그래머스: 표 편집&#10;&#10;- Level3&#10;- #문자열 #구현">
+      <created>1651892164749</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1651892164749</updated>
+    </task>
+    <task id="LOCAL-00096" summary="LeetCode: Add Two Numbers&#10;&#10;- Difficulty: Medium&#10;- Type: Implement">
+      <created>1652278956130</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1652278956130</updated>
+    </task>
+    <task id="LOCAL-00097" summary="LeetCode: Median of Two Sorted Arrays&#10;&#10;- Difficulty: Hard&#10;- Type: Implementation, Sort">
+      <created>1652538238152</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1652538238152</updated>
+    </task>
+    <task id="LOCAL-00098" summary="LeetCode: Longest Palindromic Substring&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, String">
+      <created>1652883786097</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1652883786097</updated>
+    </task>
+    <task id="LOCAL-00099" summary="LeetCode: Zigzag_Conversion&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, String">
+      <created>1653574372568</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1653574372569</updated>
+    </task>
+    <task id="LOCAL-00100" summary="LeetCode: Reverse_Integer&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, Math">
+      <created>1653805104573</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1653805104573</updated>
+    </task>
+    <task id="LOCAL-00101" summary="LeetCode: String_to_Integer&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, String">
+      <created>1653810818324</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1653810818326</updated>
+    </task>
+    <task id="LOCAL-00102" summary="LeetCode: String_to_Integer&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, String">
+      <created>1653810848079</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1653810848079</updated>
+    </task>
+    <task id="LOCAL-00103" summary="LeetCode: Palindrome_Number&#10;&#10;- Level: Easy&#10;- Type: Implement, Math">
+      <created>1654000059102</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1654000059105</updated>
+    </task>
+    <task id="LOCAL-00104" summary="...">
+      <created>1656942094117</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1656942094117</updated>
+    </task>
+    <task id="LOCAL-00105" summary="BOJ 2596 비밀편지">
+      <created>1657465202629</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1657465202631</updated>
+    </task>
+    <task id="LOCAL-00106" summary="BOJ 2596 비밀편지&#10;&#10;- level: bronze 2&#10;- type: implementation">
+      <created>1657542563545</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1657542563545</updated>
+    </task>
+    <task id="LOCAL-00107" summary="BOJ 2511 카드놀이&#10;&#10;- level: bronze 2&#10;- type: implementation">
+      <created>1657547331867</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1657547331868</updated>
+    </task>
+    <task id="LOCAL-00108" summary="BOJ 1268 임시 반장 정하기&#10;&#10;- level: bronze 1&#10;- type: implementation, set, map">
+      <created>1657635697598</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1657635697599</updated>
+    </task>
+    <task id="LOCAL-00109" summary="BOJ 1268 전자레인지&#10;&#10;- level: bronze 4&#10;- type: implementation">
+      <created>1657893203319</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1657893203319</updated>
+    </task>
+    <task id="LOCAL-00110" summary="LeetCode: ThreeSum_Closet&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, Simulation">
+      <created>1658325277368</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1658325277370</updated>
+    </task>
+    <task id="LOCAL-00111" summary="LeetCode: Letter_Combinations_of_a_Phone_Number&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, String">
+      <created>1658755004664</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1658755004664</updated>
+    </task>
+    <task id="LOCAL-00112" summary="LeetCode: Binary_Search&#10;&#10;- Difficulty: Easy&#10;- Type: Search">
+      <created>1664456545339</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1664456545339</updated>
+    </task>
+    <task id="LOCAL-00113" summary="LeetCode: First_Bad_Version&#10;&#10;- Difficulty: Easy&#10;- Type: Search">
+      <created>1664457663378</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1664457663378</updated>
+    </task>
+    <task id="LOCAL-00114" summary="LeetCode: Search_Insert_Position&#10;&#10;- Difficulty: Easy&#10;- Type: Search">
+      <created>1664457952252</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1664457952252</updated>
+    </task>
+    <task id="LOCAL-00115" summary="LeetCode: Search_Insert_Position&#10;&#10;- Difficulty: Easy&#10;- Type: Two Pointer">
+      <created>1664590640759</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1664590640759</updated>
+    </task>
+    <task id="LOCAL-00116" summary="LeetCode: Rotate_Array&#10;&#10;- Difficulty: Medium&#10;- Type: Two Pointer">
+      <created>1664591453206</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1664591453206</updated>
+    </task>
+    <task id="LOCAL-00117" summary="LeetCode: Move_Zeroes&#10;&#10;- Difficulty: Easy&#10;- Type: Two Pointer">
+      <created>1664711768522</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1664711768522</updated>
+    </task>
+    <task id="LOCAL-00118" summary="LeetCode: Two_Sum_II_Input_Array_Is_Sorted&#10;&#10;- Difficulty: Medium&#10;- Type: Two Pointer">
+      <created>1664712556689</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1664712556689</updated>
+    </task>
+    <task id="LOCAL-00119" summary="LeetCode: Reverse_String&#10;&#10;- Difficulty: Easy&#10;- Type: Two Pointer, String">
+      <created>1664713048161</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1664713048161</updated>
+    </task>
+    <task id="LOCAL-00120" summary="LeetCode: Reverse_Words_in_a_String_III&#10;&#10;- Difficulty: Easy&#10;- Type: String">
+      <created>1664713593453</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1664713593453</updated>
+    </task>
+    <task id="LOCAL-00121" summary="LeetCode: Remove_Nth_Node_From_End_of_List&#10;&#10;- Difficulty: Medium&#10;- Type: TwoPointer, LinkedList">
+      <created>1664767035127</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1664767035127</updated>
+    </task>
+    <task id="LOCAL-00122" summary="LeetCode: Permutation_in_String&#10;&#10;- Difficulty: Medium&#10;- Type: Sliding Window">
+      <created>1664891971912</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1664891971912</updated>
+    </task>
+    <task id="LOCAL-00123" summary="LeetCode: Flood_Fill&#10;&#10;- Difficulty: Easy&#10;- Type: BFS">
+      <created>1665062278193</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1665062278193</updated>
+    </task>
+    <task id="LOCAL-00124" summary="LeetCode: Max_Area_of_Island&#10;&#10;- Difficulty: Medium&#10;- Type: BFS">
+      <created>1665062865513</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1665062865513</updated>
+    </task>
+    <task id="LOCAL-00125" summary="LeetCode: Matrix_01&#10;&#10;- Difficulty: Medium&#10;- Type: BFS">
+      <created>1665150392393</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1665150392393</updated>
+    </task>
+    <task id="LOCAL-00126" summary="LeetCode: Rotting_Oranges&#10;&#10;- Difficulty: Medium&#10;- Type: BFS">
+      <created>1665151149942</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1665151149942</updated>
+    </task>
+    <task id="LOCAL-00127" summary="LeetCode: Merge_Two_Binary_Trees&#10;&#10;- Difficulty: Easy&#10;- Type: DFS">
+      <created>1665203885332</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1665203885332</updated>
+    </task>
+    <task id="LOCAL-00128" summary="LeetCode: Combinations&#10;&#10;- Difficulty: Medium&#10;- Type: Combination">
+      <created>1665292579958</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1665292579958</updated>
+    </task>
+    <task id="LOCAL-00129" summary="LeetCode: Climbing_Stairs&#10;&#10;- Difficulty: Easy&#10;- Type: Dynamic Programming">
+      <created>1665413149549</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1665413149549</updated>
+    </task>
+    <task id="LOCAL-00130" summary="LeetCode: Power_of_Two&#10;&#10;- Difficulty: Easy&#10;- Type: Bit Manipulation">
+      <created>1665488009055</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1665488009055</updated>
+    </task>
+    <task id="LOCAL-00131" summary="LeetCode: Number_of_1_Bits&#10;&#10;- Difficulty: Easy&#10;- Type: Bit Manipulation">
+      <created>1665488537725</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1665488537725</updated>
+    </task>
+    <task id="LOCAL-00132" summary="refactor project structure">
+      <created>1665490877660</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1665490877661</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BOJ 1268 임시 반장 정하기&#10;&#10;- level: bronze 1&#10;- type: implementation, set, map" />
+    <MESSAGE value="BOJ 1268 전자레인지&#10;&#10;- level: bronze 4&#10;- type: implementation" />
+    <MESSAGE value="LeetCode: ThreeSum_Closet&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, Simulation" />
+    <MESSAGE value="LeetCode: Letter_Combinations_of_a_Phone_Number&#10;&#10;- Difficulty: Medium&#10;- Type: Implementation, String" />
+    <MESSAGE value="LeetCode: Binary_Search&#10;&#10;- Difficulty: Easy&#10;- Type: Search" />
+    <MESSAGE value="LeetCode: First_Bad_Version&#10;&#10;- Difficulty: Easy&#10;- Type: Search" />
+    <MESSAGE value="LeetCode: Search_Insert_Position&#10;&#10;- Difficulty: Easy&#10;- Type: Search" />
+    <MESSAGE value="LeetCode: Search_Insert_Position&#10;&#10;- Difficulty: Easy&#10;- Type: Two Pointer" />
+    <MESSAGE value="LeetCode: Rotate_Array&#10;&#10;- Difficulty: Medium&#10;- Type: Two Pointer" />
+    <MESSAGE value="LeetCode: Move_Zeroes&#10;&#10;- Difficulty: Easy&#10;- Type: Two Pointer" />
+    <MESSAGE value="LeetCode: Two_Sum_II_Input_Array_Is_Sorted&#10;&#10;- Difficulty: Medium&#10;- Type: Two Pointer" />
+    <MESSAGE value="LeetCode: Reverse_String&#10;&#10;- Difficulty: Easy&#10;- Type: Two Pointer, String" />
+    <MESSAGE value="LeetCode: Reverse_Words_in_a_String_III&#10;&#10;- Difficulty: Easy&#10;- Type: String" />
+    <MESSAGE value="LeetCode: Remove_Nth_Node_From_End_of_List&#10;&#10;- Difficulty: Medium&#10;- Type: TwoPointer, LinkedList" />
+    <MESSAGE value="LeetCode: Permutation_in_String&#10;&#10;- Difficulty: Medium&#10;- Type: Sliding Window" />
+    <MESSAGE value="LeetCode: Flood_Fill&#10;&#10;- Difficulty: Easy&#10;- Type: BFS" />
+    <MESSAGE value="LeetCode: Max_Area_of_Island&#10;&#10;- Difficulty: Medium&#10;- Type: BFS" />
+    <MESSAGE value="LeetCode: Matrix_01&#10;&#10;- Difficulty: Medium&#10;- Type: BFS" />
+    <MESSAGE value="LeetCode: Rotting_Oranges&#10;&#10;- Difficulty: Medium&#10;- Type: BFS" />
+    <MESSAGE value="LeetCode: Merge_Two_Binary_Trees&#10;&#10;- Difficulty: Easy&#10;- Type: DFS" />
+    <MESSAGE value="LeetCode: Combinations&#10;&#10;- Difficulty: Medium&#10;- Type: Combination" />
+    <MESSAGE value="LeetCode: Climbing_Stairs&#10;&#10;- Difficulty: Easy&#10;- Type: Dynamic Programming" />
+    <MESSAGE value="LeetCode: Power_of_Two&#10;&#10;- Difficulty: Easy&#10;- Type: Bit Manipulation" />
+    <MESSAGE value="LeetCode: Number_of_1_Bits&#10;&#10;- Difficulty: Easy&#10;- Type: Bit Manipulation" />
+    <MESSAGE value="refactor project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor project structure" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
